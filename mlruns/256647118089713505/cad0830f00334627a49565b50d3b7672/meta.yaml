@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256647118089713505/cad0830f00334627a49565b50d3b7672/artifacts
+end_time: 1754290252598
+entry_point_name: ''
+experiment_id: '256647118089713505'
+lifecycle_stage: active
+run_id: cad0830f00334627a49565b50d3b7672
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754290244758
+status: 3
+tags: []
+user_id: MohitUpadhyaya

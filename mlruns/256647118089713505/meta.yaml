@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/256647118089713505
+creation_time: 1754290214760
+experiment_id: '256647118089713505'
+last_update_time: 1754290214760
+lifecycle_stage: active
+name: Iris Classification
